@@ -1,0 +1,74 @@
+Sr Test Engineer
+Bengaluru, Karnataka, India
+Employees can work remotely
+Full-time
+Company Description
+Eurofins Scientific is an international life sciences company, providing a unique range of analytical testing services to clients across multiple industries, to make life and the environment safer, healthier and more sustainable. From the food you eat to the medicines you rely on, Eurofins works with the biggest companies in the world to ensure the products they supply are safe, their ingredients are authentic and labelling is accurate. Eurofins is a global leader in food, environmental, pharmaceutical and cosmetic product testing and in agroscience CRO services. It is also one of the global independent market leaders in certain testing and laboratory services for genomics, discovery pharmacology, forensics, CDMO, advanced material sciences and in the support of clinical studies.
+
+In over just 35 years, Eurofins has grown from one laboratory in Nantes, France to 62,000 staff across a network of over 1,000 independent companies in 61 countries, operating 900 laboratories. Performing over 450 million tests every year, Eurofins offers a portfolio of over 200,000 analytical methods to evaluate the safety, identity, composition, authenticity, origin, traceability and purity of biological substances and products, as well as providing innovative clinical diagnostic testing services, as one of the leading global emerging players in specialised clinical diagnostics testing.
+
+Eurofins is one of the fastest growing listed European companies with a listing on the French stock exchange since 1997. 
+
+Eurofins IT Solutions India Pvt Ltd (EITSI) is a fully owned subsidiary of Eurofins and functions as a Global Software Delivery Center exclusively catering to Eurofins Global IT business needs. The code shipped out of EITSI impacts the global network of Eurofins labs and services.
+
+The primary focus at EITSI is to develop the next generation LIMS (Lab Information Management system), Customer portals, e-commerce solutions, ERP/CRM system, Mobile Apps & other B2B platforms for various Eurofins Laboratories and businesses. Young and dynamic, we have a rich culture and we offer fulfilling careers.
+
+Job Description
+ 
+
+Responsibilities
+
+Performance Test Planning & Strategy
+
+Analyze non-functional requirements (NFRs) and define performance test objectives.
+Develop comprehensive performance test strategies, plans, scenarios, and scripts.
+Identify and document performance bottlenecks, risks, and improvement opportunities.
+Test Design & Execution
+
+Develop and execute load, stress, endurance, spike, and scalability tests.
+Create performance test scripts using tools like JMeter, LoadRunner, NeoLoad, Gatling, etc.
+Simulate production-scale workloads and analyze application behaviour under various conditions.
+Monitoring & Analysis
+
+Use APM tools (e.g., Dynatrace, AppDynamics, New Relic, Grafana, Kibana) to monitor:
+CPU
+Memory
+Response times
+Error rates
+Throughput
+Database performance
+Network bottlenecks
+Perform root-cause analysis and provide actionable performance tuning recommendations.
+Collaboration
+
+Work closely with developers, architects, DBAs, system engineers, and DevOps teams.
+Provide performance optimization suggestions related to:
+Application code
+Database queries
+Infrastructure
+CI/CD pipelines
+Caching strategies
+Documentation & Reporting
+
+Prepare detailed performance reports and present findings to stakeholders.
+Document test configurations, results, bottlenecks, and recommended optimizations.
+Qualifications
+Required Skills & Qualifications:
+
+Bachelor’s or Master’s degree in Computer Science, IT, or related field.
+3 to 8 years of hands-on experience in performance engineering and testing.
+Strong expertise with performance testing tools such as:
+JMeter, LoadRunner, NeoLoad, Gatling
+Strong experience with APM and monitoring tools:
+Dynatrace, AppDynamics, Grafana, Prometheus, ELK
+Solid understanding of:
+HTTP/HTTPS, APIs, web services, microservices
+Databases (SQL/NoSQL)
+Cloud platforms (AWS/Azure/GCP)
+CI/CD pipelines
+Container technologies (Docker, Kubernetes)
+Strong analytical and problem‑solving skills.
+Ability to work independently and mentor junior engineers.
+Excellent analytical and problem-solving skills.
+Excellent verbal and written communication skills to converse with various teams (PO, Dev, Release/Deployment, Product Management, Leadership team, etc.)
+

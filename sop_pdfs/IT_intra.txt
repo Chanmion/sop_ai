@@ -1,0 +1,86 @@
+IT Infrastructure Cloud Engineer
+Bengaluru, Karnataka, India
+Full-time
+Company Description
+Eurofins Scientific is an international life sciences company, providing a unique range of analytical testing services to clients across multiple industries, to make life and the environment safer, healthier and more sustainable. From the food you eat to the medicines you rely on, Eurofins works with the biggest companies in the world to ensure the products they supply are safe, their ingredients are authentic and labelling is accurate. Eurofins is a global leader in food, environmental, pharmaceutical and cosmetic product testing and in agroscience CRO services. It is also one of the global independent market leaders in certain testing and laboratory services for genomics, discovery pharmacology, forensics, CDMO, advanced material sciences and in the support of clinical studies.
+
+In over just 35 years, Eurofins has grown from one laboratory in Nantes, France to 62,000 staff across a network of over 1,000 independent companies in 61 countries, operating 900 laboratories. Performing over 450 million tests every year, Eurofins offers a portfolio of over 200,000 analytical methods to evaluate the safety, identity, composition, authenticity, origin, traceability and purity of biological substances and products, as well as providing innovative clinical diagnostic testing services, as one of the leading global emerging players in specialized clinical diagnostics testing.
+
+Eurofins is one of the fastest growing listed European companies with a listing on the French stock exchange since 1997.
+
+Eurofins IT Solutions India Pvt Ltd (EITSI) is a fully owned subsidiary of Eurofins and functions as a Global Software Delivery Center exclusively catering to Eurofins Global IT business needs. The code shipped out of EITSI impacts the global network of Eurofins labs and services.
+
+The primary focus at EITSI is to develop the next generation LIMS (Lab Information Management system), Customer portals, e-commerce solutions, ERP/CRM system, Mobile Apps & other B2B platforms for various Eurofins Laboratories and businesses. Young and dynamic, we have a rich culture and we offer fulfilling careers.
+
+Job Description
+This Position is in India, and the engineer is needed to work from 12PM to 9PM IST timing to support the Europe Business timing.
+
+Cloud System Administrator
+
+REPORTING TO:                                   Senior Manager
+
+REPORTING LOCATION:                         Bangalore
+
+WORKING LOCATION:                           Bangalore
+ 
+SUMMARY OF ROLE AND OBJECTIVES:
+
+We are seeking a skilled and proactive Cloud System Administrator to manage and maintain our hybrid cloud infrastructure. The ideal candidate will have hands-on experience with Windows and Linux operating systems, VMware vSphere, infrastructure automation tools like Terraform and Ansible, and a strong background in patch management. This role is critical to ensuring system reliability, security, and scalability across our cloud and on-prem environments.
+ 
+Key Responsibilities:
+
+Administer and maintain Windows and Linux servers in cloud and on-prem environments.
+Manage and optimize VMware vSphere infrastructure, including virtual machines, hosts, clusters, and storage.
+Automate infrastructure provisioning and configuration using Terraform and Ansible.
+Implement and manage patching strategies across all systems to ensure compliance and security.
+Monitor system performance, troubleshoot issues, and perform root cause analysis.
+Collaborate with Security, and Application teams to support deployment pipelines and secure configurations, fix vulnerabilities.
+Maintain documentation for system configurations, procedures, and policies.
+Participate in disaster recovery planning and execution.
+ 
+Required Skills & Qualifications
+ 
+•     Proven experience with Windows Server and Linux (RHEL, CentOS, Ubuntu) administration.
+
+•     Strong expertise in VMware vSphere (ESXi, vCenter, vMotion, DRS, HA).
+
+•     Proficiency in Terraform and Ansible for infrastructure as code and configuration management.
+
+•     Solid understanding of patch management tools and processes (WSUS, Red Hat Satellite, etc.).
+
+•     Familiarity with cloud platforms such as AWS, Azure, or Google Cloud is a plus.
+
+•     Knowledge of networking fundamentals, firewalls, and security best practices.
+
+•     Excellent problem-solving skills and attention to detail.
+
+•     Strong communication and documentation abilities.
+
+ Personal profile
+
+Very good English communication skills (concise writing and orally convincing);
+Able to engage and influence others to obtain sufficient follow up and attention.
+Eager to learn and continuously develop personal and technical capabilities.
+Ability to work in a complex international environment.
+Eager to learn and continuously develop personal and technical capabilities.
+ 
+ Education & Experience
+
+•             Bachelor's degree in computer science, Information Technology, or related field.
+
+•             7+ years of experience in system administration and cloud infrastructure management.
+
+•             Must have certification in Microsoft/Vmware ( Azure Cloud would be good to have)
+
+Qualifications
+•             Bachelor's degree in computer science, Information Technology, or related field.
+
+•             7+ years of experience in system administration and cloud infrastructure management.
+
+Additional Information
+What we offer:
+
+A launch pad into various senior management opportunities – within the many business lines of Eurofins globally – or into the management hierarchy in our different corporate functions.
+The opportunity to grow your project management skills in a demanding, fast growing organization.
+A chance to become part of a highly motivated international team of professionals.
+In a fast growing group, successful leaders are frequently being offered increased areas of responsibility (subject to geographic mobility).

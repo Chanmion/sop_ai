@@ -1,0 +1,49 @@
+Senior Software Engineer
+Bengaluru, Karnataka, India
+Employees work in a hybrid mode
+Full-time
+Company Description
+About Eurofins
+
+Eurofins Scientific is an international life sciences company, providing a unique range of analytical testing services to clients across multiple industries, to make life and the environment safer, healthier and more sustainable. From the food you eat to the medicines you rely on, Eurofins works with the biggest companies in the world to ensure the products they supply are safe, their ingredients are authentic, and labelling is accurate. Eurofins is a global leader in food, environmental, pharmaceutical and cosmetic product testing and in AgroScience CRO services. It is also one of the global independent market leaders in certain testing and laboratory services for genomics, discovery pharmacology, forensics, CDMO, advanced material sciences and in the support of clinical studies.
+
+In over just 35 years, Eurofins has grown from one laboratory in Nantes, France to 62,000 staff across a network of over 1,000 independent companies in 61 countries, operating 900 laboratories. Performing over 450 million tests every year, Eurofins offers a portfolio of over 200,000 analytical methods to evaluate the safety, identity, composition, authenticity, origin, traceability and purity of biological substances and products, as well as providing innovative clinical diagnostic testing services, as one of the leading global emerging players in specialized clinical diagnostics testing.
+
+Eurofins is one of the fastest growing listed European companies with a listing on the French stock exchange since 1997. 
+
+Eurofins IT Solutions India Pvt Ltd (EITSI) is a fully owned subsidiary of Eurofins and functions as a Global Software Delivery Center exclusively catering to Eurofins Global IT business needs. The code shipped out of EITSI impacts the global network of Eurofins labs and services.
+
+The primary focus at EITSI is to develop the next generation LIMS (Lab Information Management system), Customer portals, e-commerce solutions, ERP/CRM system, Mobile Apps & other B2B platforms for various Eurofins Laboratories and businesses. Young and dynamic, we have a rich culture, and we offer fulfilling careers.
+
+Job Description
+Requirements:
+
+Mandatory:
+
+4 to 7 year of experience with developing end to end software using Microsoft Stack of Technologies.
+Proficient in C#, .NET, Web APIs, LINQ, Entity Framework, SQL queries.
+Experience working on at least one SOA or microservices architecture style product.
+Good understanding of UML, object-oriented programming (OOP) and Object Oriented Design principles.
+Experience working on implementing non functional requirements related to reliabiliy and performance and addressing architecture concerns.
+Strong knowledge of software development best practices. Passion for code quality to write well-factored, optimized and unit tested code.
+Knowledge about performance management to prevent performance issue in C# or SQL.
+Excellent debugging skills to troubleshoot issues reported from lower and higher environment.
+2 year experience leading 2-4 software engineers to provide technical inputs and guide them through the implementation.
+Preferred but not mandatory:
+
+1). WPF experience and/or Knowledge
+
+2). Experience working with Scrum in Scaled agile team environment.
+
+3). Experience with ATDD / TDD (Fitnesse for the ATDD or Postman would be a plus)
+
+4). Experience building applications with Microsoft Azure
+
+Personal Skills:
+
+Excellent analytical and problem solving skills
+Excellent communication skills – written and verbal to work with people from different disciplines and geographies
+Self-motivated, independent, detail oriented, responsible team-player
+Ability to work in an international environment
+Qualifications
+B.E./B.Tech. Computer Science / MCA from an institute of repute (or appropriate experience).
